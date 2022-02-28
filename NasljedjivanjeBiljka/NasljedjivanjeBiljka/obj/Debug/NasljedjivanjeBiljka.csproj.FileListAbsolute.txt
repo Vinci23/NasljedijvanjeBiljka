@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\bin\Debug\NasljedjivanjeBiljka.exe.config
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\bin\Debug\NasljedjivanjeBiljka.exe
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\bin\Debug\NasljedjivanjeBiljka.pdb
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\obj\Debug\NasljedjivanjeBiljka.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\obj\Debug\NasljedjivanjeBiljka.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\obj\Debug\NasljedjivanjeBiljka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\obj\Debug\NasljedjivanjeBiljka.exe
+C:\Users\PC\source\repos\NasljedjivanjeBiljka\NasljedjivanjeBiljka\obj\Debug\NasljedjivanjeBiljka.pdb
